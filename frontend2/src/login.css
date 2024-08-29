@@ -1,0 +1,12 @@
+img{
+    height: 60vh;
+    width: 20vw;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(233, 196, 47);
+}
